@@ -1,0 +1,8 @@
+class First {
+    public static void main(String[] args) {
+      String a= "V*o*v*a";
+      String name1 = "Petr";
+      String name2 = "Vova";
+        System.out.println(name1);
+      }
+    }
